@@ -57,10 +57,8 @@ Design and build an **interactive dashboard** to help business stakeholders unde
 ---
 
 ## 📈 DAX Measures Used
-- `Sales YoY Growth`
 - `Profit YoY Growth`
-- `Cumulative Sales`
-- `Cumulative Profit`
+
 
 ---
 
@@ -73,7 +71,7 @@ This dashboard demonstrates how to:
 ---
 
 ## 📎 How to Use
-1. Open the `Sales_Dashboard.pbix` file in Power BI Desktop
+1. Open the `ECOMMERCE SALES-VINIT RUPARELIA.pbix` file in Power BI Desktop
 2. Use slicers to explore different categories
 3. Hover over visuals to view detailed trends and values
 
